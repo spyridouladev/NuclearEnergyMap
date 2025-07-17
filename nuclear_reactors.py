@@ -454,13 +454,13 @@ def make_map(df):
 def main():
     base_path = Path(__file__).parent
     
-    csv_path = base_path.parent / "resources" / "nuclear_power_plants.csv"
+    csv_path = base_path / "resources" / "nuclear_power_plants.csv"
 
     df = pd.read_csv(csv_path)
 
     m = make_map(df)
 
-    save_path = base_path.parent / "docs" / "reactor-map.html"
+    save_path = base_path / "reactor-map.html"
     
     m.save(str(save_path))
 
