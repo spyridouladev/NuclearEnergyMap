@@ -1,4 +1,4 @@
-# Nuclear_Plants
+# Nuclear Energy Map
 
 The purpose of the project is to visualize the location of
 nuclear reactors and their operational status worldwide 
