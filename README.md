@@ -5,7 +5,7 @@ The purpose of the project is to visualize the location of nuclear reactors and 
 ## Screenshot
 
 <p align="center">
-  <img src="resources/screenshot.png" alt="Nuclear Energy Map Screenshot" width="700" />
+  <img src="resources/screenshot.png" alt="Nuclear Energy Map Screenshot" width="700" style="max-width: 100%;" />
 </p>
 
 > **UI Layout:**  
